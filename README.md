@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Statistical Background of Machine Learning Algorithms**
 
-- 🌱 I’m currently learning ** Keras, Flask **
+- 🌱 I’m currently learning **Keras, Flask**
 
 - 📝 I write articles on [https://medium.com/@tanersekmen](https://medium.com/@tanersekmen)
 
