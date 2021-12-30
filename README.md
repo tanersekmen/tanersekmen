@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi there 👋, I'm Taner</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanersekmenn" alt="tanersekmenn" /> </p>
+
 
 - 🔭 I’m currently working on **Statistical Background of Machine Learning Algorithms**
 
