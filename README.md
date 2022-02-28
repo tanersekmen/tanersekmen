@@ -9,8 +9,7 @@
 
 - 📝 I write articles on [https://medium.com/@tanersekmen](https://medium.com/@tanersekmen)
 
-- 📫 How to reach me **tanersekmen1914@gmail.com**
-
+- 📫 How to reach me **tanersekmenn@gmail.com**
 
 
 <p align="center">
