@@ -36,9 +36,11 @@
   
   
 <p align="center">
-<a href="https://twitter.com/TanerSekmenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tanersekmen" height="30" width="30" /></a>
-<a href="https://kaggle.com/tanersekmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="tanersekmen" height="30" width="30" /></a>
-<a href="https://medium.com/@tanersekmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tanersekmen" height="30" width="30" /></a>
+<a href="https://twitter.com/TanerSekmenn" target="blank"><img align="center" src="https://teknohocam.com/wp-content/uploads/2022/03/Twitter-Hesabi-Hangi-Sebepten-Kapanir.jpg" alt="tanersekmen" height="60" width="60" /></a>
+<a href="https://kaggle.com/tanersekmen" target="blank"><img align="center" src="https://avatars.mds.yandex.net/i?id=6848e806ec5191d346299d178c28e026-5858549-images-thumbs&n=13" alt="tanersekmen" height="60" width="60" /></a>
+<a href="https://medium.com/@tanersekmen" target="blank"><img align="center" src="https://avatars.mds.yandex.net/i?id=8e3cc0205a5aa52c45f2a39b2ba42dac-4568533-images-thumbs&n=13" alt="@tanersekmen" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/tanersekmen" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/357098?v=4" alt="@tanersekmen" height="60" width="60" /></a>
+<a href="https://github.com/tanersekmen" target="blank"><img align="center" src="https://avatars.mds.yandex.net/i?id=79a87002cc1c83ed4077b39ef6a577e6-5519673-images-thumbs&n=13" alt="@tanersekmen" height="60" width="60" /></a>
 </p>
 
 
