@@ -28,7 +28,9 @@
 </p>
 
 
+<br></br>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=tanersekmen)
 
 <br></br>
 
