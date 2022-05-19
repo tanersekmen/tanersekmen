@@ -27,12 +27,12 @@
 <img src="https://miro.medium.com/freeze/max/1200/1*xJdaL3X77BKCFqJfHt-Hpw.gif" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=tanersekmen)
 <br></br>
 
 ![githubstats](https://github-readme-stats.vercel.app/api?username=tanersekmen&hide_rank=true&hide=commits&count_private=true&show_icons=true&hide_border=true&hide_title=false)
 ![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanersekmen&layout=compact&hide_border=true)
-![Profile View Counter](https://komarev.com/ghpvc/?username=tanersekmen)
+
 
 <br></br>
 
