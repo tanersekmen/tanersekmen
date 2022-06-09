@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Computer Vision Methods**
 
 - 📝 I write articles on [https://medium.com/@tanersekmen](https://medium.com/@tanersekmen)
 
