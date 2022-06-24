@@ -1,8 +1,10 @@
 
-<h2 align="center">Hi there 👋, I'm Taner</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Taner+Sekmen&center=true&size=25" style="max-width: 100%;">
+</h2>
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" style="max-width: 100%;">
+
 
 
 - 🔭 I’m currently working on **Machine Learning Algorithms**
