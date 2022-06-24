@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Taner+Sekmen&center=true&size=25" style="max-width: 100%;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" style="max-width: 100%;">
 </h2>
 
 
