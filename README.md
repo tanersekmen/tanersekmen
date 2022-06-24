@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there https://raw.githubusercontent.com/muratdemirci/muratdemirci/master/wave.gif, I'm Taner</h2>
+<h2 align="center">Hi there 👋, I'm Taner</h2>
 
 
 
