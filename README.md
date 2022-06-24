@@ -2,7 +2,7 @@
 <h2 align="center">Hi there 👋, I'm Taner</h2>
 
 
-<img src="https://camo.githubusercontent.com/4f0b96674ec1e792dd84a33c1eed40ab115ca69cccbfc5b346b8bc49ae60305e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f213b492b616d2b417973656c2b417964696e2663656e7465723d747275652673697a653d3235" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Taner+Sekmen&center=true&size=25" style="max-width: 100%;">
 
 
 - 🔭 I’m currently working on **Machine Learning Algorithms**
