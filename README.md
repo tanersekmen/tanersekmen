@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Machine Learning Algorithms**
+- 🔭 I’m currently working on **Clustering Algorithms**
 
 - 🌱 I’m currently learning **Computer Vision Methods**
 
