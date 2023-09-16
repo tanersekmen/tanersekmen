@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Clustering Algorithms**
 
-- 🌱 I’m currently learning **Computer Vision Methods**
+- 🌱 I’m currently learning **Natural Language Processing Techniques**
 
 - 📝 I write articles on [https://medium.com/@tanersekmen](https://medium.com/@tanersekmen)
 
