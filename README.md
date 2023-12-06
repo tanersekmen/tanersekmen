@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **Clustering Algorithms**
+- 🔭 I’m currently working on **Natural Language Processing Techniques**
 
-- 🌱 I’m currently learning **Natural Language Processing Techniques**
+- 🌱 I’m currently learning **Large Language Model**
 
 - 📝 I write articles on [https://medium.com/@tanersekmen](https://medium.com/@tanersekmen)
 
