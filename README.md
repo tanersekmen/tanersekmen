@@ -36,10 +36,10 @@
   
 <p align="center">
 <a href="https://twitter.com/TanerSekmenn" target="blank"><img align="center" src="https://pbs.twimg.com/media/D7Q-gzVXsAIr_0A.png" alt="tanersekmen" height="40" width="40" /></a>
-<a href="https://kaggle.com/tanersekmen" target="blank"><img align="center" src="https://avatars.mds.yandex.net/i?id=6848e806ec5191d346299d178c28e026-5858549-images-thumbs&n=13" alt="tanersekmen" height="40" width="40" /></a>
+<a href="https://kaggle.com/tanersekmen" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/589/699/png-transparent-kaggle-logo-tech-companies.png" alt="tanersekmen" height="40" width="40" /></a>
 <a href="https://medium.com/@tanersekmen" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*RB1rxSK_TBmcC5D2PN30JA.png" alt="@tanersekmen" height="40" width="40" /></a>
 <a href="https://youtube.com/@tanersekmenn" target="blank"><img align="center" src="https://www.giantfreakinrobot.com/wp-content/uploads/2020/12/youtube-logo.jpg" alt="@tanersekmen" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/tanersekmen" target="blank"><img align="center" src="https://avatars.mds.yandex.net/i?id=0e8fb003824e8cf549a158621636ea00-5888323-images-thumbs&n=13" alt="@tanersekmen" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/tanersekmen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="@tanersekmen" height="40" width="40" /></a>
 <a href="https://github.com/tanersekmen" target="blank"><img align="center" src="https://avatars.mds.yandex.net/i?id=79a87002cc1c83ed4077b39ef6a577e6-5519673-images-thumbs&n=13" alt="@tanersekmen" height="40" width="40" /></a>
 </p>
 
