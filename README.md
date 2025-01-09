@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **Natural Language Processing Techniques**
+- 🔭 I’m currently working on **Retrieval Augmented Generation**
 
-- 🌱 I’m currently learning **Large Language Model**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 📝 I write articles on [https://medium.com/@tanersekmen](https://medium.com/@tanersekmen)
 
