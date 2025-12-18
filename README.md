@@ -40,7 +40,6 @@
 <a href="https://medium.com/@tanersekmen" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*RB1rxSK_TBmcC5D2PN30JA.png" alt="@tanersekmen" height="40" width="40" /></a>
 <a href="https://youtube.com/@tanersekmenn" target="blank"><img align="center" src="https://www.giantfreakinrobot.com/wp-content/uploads/2020/12/youtube-logo.jpg" alt="@tanersekmen" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/tanersekmen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="@tanersekmen" height="40" width="40" /></a>
-<a href="https://github.com/tanersekmen" target="blank"><img align="center" src="https://avatars.mds.yandex.net/i?id=79a87002cc1c83ed4077b39ef6a577e6-5519673-images-thumbs&n=13" alt="@tanersekmen" height="40" width="40" /></a>
-</p>
+
 
 
