@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **Retrieval Augmented Generation**
+- 🔭 I’m currently working on **Agentic RAG Architectures**
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning **LLM Systems & Evaluation**
 
 - 📝 I write articles on [https://medium.com/@tanersekmen](https://medium.com/@tanersekmen)
 
