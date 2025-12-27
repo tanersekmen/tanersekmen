@@ -25,8 +25,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tanersekmen)
 <br></br>
 
-![githubstats](https://github-readme-stats.vercel.app/api?username=tanersekmen&hide_rank=true&hide=commits&count_private=true&show_icons=true&hide_border=true&hide_title=false)
-![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanersekmen&layout=compact&hide_border=true)
 
 
 <br></br>
